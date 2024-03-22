@@ -32,6 +32,28 @@
   - [arxiv](https://arxiv.org/abs/2007.03465)
   - [GitHub](https://github.com/HKUST-Aerial-Robotics/Fast-Planner)
 
+  <br/>
+
+- **[EGO-Planner: An ESDF-free Gradient-based Local Planner for Quadrotors](./path_trajectory_planning/2008.08835.pdf)**
+
+  - `EGO-Planner`
+  - Xin Zhou, Zhepei Wang, Hongkai Ye, Chao Xu, Fei Gao
+  - August 2020
+  - [arxiv](https://arxiv.org/abs/2008.08835)
+  - [GitHub](https://github.com/ZJU-FAST-Lab/ego-planner)
+
+  <br/>
+
+- **[EGO-Swarm: A Fully Autonomous and Decentralized Quadrotor Swarm System in Cluttered Environments](./path_trajectory_planning/2011.04183.pdf)**
+
+  - `EGO-Swarm`
+  - Xin Zhou, Jiangchao Zhu, Hongyu Zhou, Chao Xu, Fei Gao
+  - November 2020
+  - [arxiv](https://arxiv.org/abs/2011.04183)
+  - [GitHub](https://github.com/ZJU-FAST-Lab/ego-planner-swarm)
+
+  <br/>
+
 ---
 
 ## Exploration
@@ -53,5 +75,7 @@
   - September 2022
   - [arxiv](https://arxiv.org/abs/2209.08533)
   - [GitHub](https://github.com/SYSU-STAR/RACER)
+
+  <br/>
 
 ---
