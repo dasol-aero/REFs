@@ -2,6 +2,20 @@
 
 ---
 
+## Trajectory Generation
+
+- **[A Computationally Efficient Motion Primitive for Quadrocopter Trajectory Generation](./trajectory_generation/10.1109.TRO.2015.2479878.pdf)**
+
+  - N/A
+  - Mark W. Mueller, Markus Hehn, Raffaello D'Andrea
+  - December 2015
+  - [IEEE Xplore](https://ieeexplore.ieee.org/document/7299672)
+  - [GitHub](https://github.com/markwmuller/RapidQuadrocopterTrajectories)
+
+  <br/>
+
+---
+
 ## Path, Trajectory Planning
 
 - **[Robust and Efficient Quadrotor Trajectory Generation for Fast Autonomous Flight](./path_trajectory_planning/1907.01531.pdf)**
