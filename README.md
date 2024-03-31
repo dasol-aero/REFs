@@ -1,5 +1,18 @@
 # References
 
+This repository contains valuable papers on each topic of my robotics research
+
+Topics are as follows
+
+- **[Trajectory Generation](#trajectory-generation)**
+- **[Path, Trajectory Planning](#path-trajectory-planning)**
+- **[Exploration](#exploration)**
+- **[LiDAR Inertial Odometry](#lidar-inertial-odometry)**
+
+More papers to come!
+
+<br/>
+
 ---
 
 ## Trajectory Generation
@@ -89,6 +102,30 @@
   - September 2022
   - [arxiv](https://arxiv.org/abs/2209.08533)
   - [GitHub](https://github.com/SYSU-STAR/RACER)
+
+  <br/>
+
+---
+
+## LiDAR Inertial Odometry
+
+- **[FAST-LIO2: Fast Direct LiDAR-inertial Odometry](./lidar_inertial_odometry/2107.06829.pdf)**
+
+  - `FAST-LIO2`
+  - Wei Xu, Yixi Cai, Dongjiao He, Jiarong Lin, Fu Zhang
+  - July 2021
+  - [arxiv](https://arxiv.org/abs/2107.06829)
+  - [GitHub](https://github.com/hku-mars/FAST_LIO)
+
+  <br/>
+
+- **[iG-LIO: An Incremental GICP-Based Tightly-Coupled LiDAR-Inertial Odometry](./lidar_inertial_odometry/10.1109.LRA.2024.3349915.pdf)**
+
+  - `iG-LIO`
+  - Zijie Chen, Yong Xu, Shenghai Yuan, Lihua Xie
+  - February 2024
+  - [IEEE Xplore](https://ieeexplore.ieee.org/document/10380742)
+  - [GitHub](https://github.com/zijiechenrobotics/ig_lio)
 
   <br/>
 
